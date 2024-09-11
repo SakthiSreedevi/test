@@ -18,5 +18,35 @@ Software Conformance – Identify all assets in the network whose software image
 Section 5:	End to End Flow
 Upgrade MOP Definition - Pre-define the upgrade process along with pre and post checks for each vendor device model/family.
 Upgrade Jobs - Schedule upgrades for non-conformant assets during maintenance windows across geo-regions, monitor the upgrade progress and get detailed reports.
+Section 6:
+Business Process Automation (BPA) is a cross-domain, multi-tier automation and orchestration solution that manages the lifecycle of network assets across various network architectures such as transport, data center, campus, SD-WAN, and security. 
+BPA provides the following features: 
+•	An automation solution for managing the lifecycle of Cisco and third-party devices, with use cases such as device onboarding, template management, software conformance, upgrades, and configuration compliance. 
+•	A workflow engine for end-to-end service integration and automation of business and operational processes. 
+•	Process templates for automating procedures, Market Variances for maintaining location data, and Form Designers for creating UI forms. 
+•	An Adapter framework for building East-West integration to Operations Support Systems (OSS) and Business Support Systems (BSS). 
 
+Section 7: 
+BPA is pre-integrated with Cisco and Non-Cisco controllers: 
+•	Cisco controllers 
+o	Network Services Orchestrator (NSO) 
+o	Cisco Digital Network Architecture Center (Cisco DNA Center) 
+o	Data Center Network Manager (DCNM) 
+o	Cisco Catalyst SD-WAN Manager (formerly Cisco vManage) 
+Section 8:
+o	Umbrella 
+o	Duo 
+o	ThousandEyes 
+o	Direct-to-Device 
+o	Cisco Nexus Dashboard Fabric Controller (NDFC) 
+Section 9:
+o	Cisco Crosswork Network Controller (CNC) 
+o	Cisco Secure Firewall Management Center (FMC) 
+•	Non-Cisco controllers 
+o	Ansible 
+o	Checkpoint Manager/Smart Console 
+Section 10:
+With BPA’s modular architecture, integrations can be extended to other Cisco or third-party controllers. BPA provides benefits such as reduced time to deliver new services, minimized capital 
+and operational costs, improved availability, capacity and operational reliability through consistent and automated network configuration, and scalability.  
+This section highlights key features, enhancements, and modifications introduced in the Cisco BPA v4.1.1 release. 
     
