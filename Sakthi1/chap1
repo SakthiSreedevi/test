@@ -11,5 +11,12 @@ Software Conformance – Identify all assets in the network whose software image
 Section 3:	End to End Flow
 Upgrade MOP Definition - Pre-define the upgrade process along with pre and post checks for each vendor device model/family.
 Upgrade Jobs - Schedule upgrades for non-conformant assets during maintenance windows across geo-regions, monitor the upgrade progress and get detailed reports.
+Section 4:  OS Upgrade Application in BPA provides following key automation capabilities/Components:
+Software Image Management – Centralized list of software images and their versions (from all the vendors) for the software upgrade process to use them.
+Software Insights – Identify software risks and vulnerabilities exposed to the network assets and get insights on Vendor recommended software versions
+Software Conformance – Identify all assets in the network whose software images must be upgraded
+Section 5:	End to End Flow
+Upgrade MOP Definition - Pre-define the upgrade process along with pre and post checks for each vendor device model/family.
+Upgrade Jobs - Schedule upgrades for non-conformant assets during maintenance windows across geo-regions, monitor the upgrade progress and get detailed reports.
 
      
